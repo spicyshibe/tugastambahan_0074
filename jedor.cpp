@@ -9,3 +9,8 @@ class segitiga{
     int a;
     int t;
     bool cekganjil;
+
+
+
+    void inputdata(){
+   
