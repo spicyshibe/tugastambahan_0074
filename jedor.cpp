@@ -65,5 +65,13 @@ class segitiga{
 
 };
 
-
+int main()
+{
+    segitiga s;
+    s.inputdata();
+    s.outputdata();
+    return 0;
+    
+    
+}
 
