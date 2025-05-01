@@ -36,5 +36,13 @@ class segitiga{
 
 
 
-    
+    private :
+
+    float hitungluas(int a, int t) {
+
+        return 0.5 * a * t;
+
+    }
+
+   
 
