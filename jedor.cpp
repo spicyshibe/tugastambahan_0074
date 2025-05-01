@@ -44,5 +44,26 @@ class segitiga{
 
     }
 
-   
+    public :
+
+    void outputdata() 
+    {
+        if (cekganjil)
+        {
+            cout << "Luas segitiga : " << hitungluas(a, t) << endl;
+        }
+
+        else
+        {
+            cout << "Alas yang di masukkan adalah bilangan ganjil. Luas tidak dapat di hitung" << endl;
+            
+        }
+        
+        
+
+    }
+
+};
+
+
 
